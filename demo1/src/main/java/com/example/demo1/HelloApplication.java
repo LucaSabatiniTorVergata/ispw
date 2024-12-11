@@ -23,3 +23,5 @@ public class HelloApplication extends Application {
         launch();
     }
 }
+
+// a luca piace aurora
